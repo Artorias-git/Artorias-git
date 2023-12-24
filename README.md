@@ -41,7 +41,8 @@
 
 ### 💻 Технологии:
 
-<img src="https://media.giphy.com/media/d7luWDbXZAxzPs3LTK/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/d7luWDbXZAxzPs3LTK/giphy.gif" width="50%" aline="center">
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -59,16 +60,16 @@
 ### 🛠 Инструменты:
 <div>
   <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="cv" alt="cv" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
+  </p>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
-  </p>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="cv" alt="cv" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
   
 </div>
 
