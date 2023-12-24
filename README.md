@@ -3,9 +3,7 @@
 ---
 ### :zzz: Обо мне 
 
-<div>url(&quot;https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/53f8c1e3774ebc2594e2ac0dfeb5bdff777f8831676c93b4e91f1a278463ca5c.gif&quot;);</div>
-
-<img src="[https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/53f8c1e3774ebc2594e2ac0dfeb5bdff777f8831676c93b4e91f1a278463ca5c.gif]">
+<img src="https://gifs.ru/stickers/53f8c1e3774ebc2594e2ac0dfeb5bdff777f8831676c93b4e91f1a278463ca5c" width="30px">
 
 Я начинающий веб разработчик <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://gifs.ru/stickers/53f8c1e3774ebc2594e2ac0dfeb5bdff777f8831676c93b4e91f1a278463ca5c)" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
 
