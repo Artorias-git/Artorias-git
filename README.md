@@ -5,12 +5,8 @@
 [comment]: <> (<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100">)
 [comment]: <> (<img src="https://media.giphy.com/media/O7VUh4Y1Whvr2/giphy.gif" width="100%">)
 
-<style type="text/css">
-.bgimg {
-    background-image: url("https://media.giphy.com/media/26FeUjF88goLxusOQ/giphy.gif");
-}
-</style>
-<div class="bgimg">
+
+<div background-image: src="https://media.giphy.com/media/26FeUjF88goLxusOQ/giphy.gif">
     div with background
 </div>
 
