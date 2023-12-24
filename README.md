@@ -5,7 +5,7 @@
 [comment]: <> (<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100">)
 [comment]: <> (<img src="https://media.giphy.com/media/O7VUh4Y1Whvr2/giphy.gif" width="100%">)
 
-<p> Я начинающий веб разработчик <img src="[[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу! </p>
+<p> Я начинающий разработчик <img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="30">. Первые шаги в IT начал ещё в 9 классе, с изучения таких языков програмирования как c++ и python. Как показывала и продолжает показывать практика - матиматика всегда была моей сильной строной, но куда не глянь этого мало и потому я принял решение учиться на приклодной информатике в дизайне ФБКиИ ИГУ. Теперь мои аналитические способности помогают мне в дизайне, а творчиский взгляд в нахождении не классических решений. </p>
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
@@ -13,7 +13,7 @@
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artorias_tg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ---
 
