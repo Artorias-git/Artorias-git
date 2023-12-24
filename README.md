@@ -7,13 +7,15 @@
 
 <p> Я начинающий разработчик <img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="30">. Первые шаги в IT начал ещё в 9 классе, с изучения таких языков програмирования как c++ и python. Как показывала и продолжает показывать практика - матиматика всегда была моей сильной строной, но куда не глянь этого мало и потому я принял решение учиться на приклодной информатике в дизайне ФБКиИ ИГУ. Теперь мои аналитические способности помогают мне в дизайне, а творчиский взгляд в нахождении не классических решений. </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :zap: Являюсь старшим студентом ФБКиИ ИГУ приклодная информатика и дизайн
+  
+- :seedling: Окончил курсы по веб разработке, базам данных и веб дизайну
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :speak_no_evil: Чё по кайфу - то по кайфу
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :hear_no_evil: Мечтаю стать норативным дизайнером
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artorias_tg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :see_no_evil: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-artorias_tg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artorias_tg) 
 
 ---
 
