@@ -40,8 +40,10 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 ---
 
+
 ### 💻 Технологии:
 
+<img src="https://media.giphy.com/media/d7luWDbXZAxzPs3LTK/giphy.gif" width="100%">
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
