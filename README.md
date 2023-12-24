@@ -1,6 +1,12 @@
 
 # Код красный! Код красный! Вы на профиле RED_ALERT
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hellow+wor...+Oh,+what???)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/26FeUjF88goLxusOQ/giphy.gif" width="200px"/>
+some text floating around the image
+<br clear="left"/>
+A "newline". This text doesn't float anymore, is left-aligned.
+
 ---
 ### :zzz: Обо мне 
 [comment]: <> (<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100">)
