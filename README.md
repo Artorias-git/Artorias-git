@@ -2,7 +2,7 @@
 # Код красный! Код красный! Вы на профиле RED_ALERT
 ---
 ### :zzz: Обо мне 
-<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100"> <img src="https://media.giphy.com/media/O7VUh4Y1Whvr2/giphy.gif" width="100"> <img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100"> 
+<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100"> <img src="https://media.giphy.com/media/O7VUh4Y1Whvr2/giphy.gif" width="100%"> <img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100"> 
 
 <p> Я начинающий веб разработчик <img src="[[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу! </p>
 
