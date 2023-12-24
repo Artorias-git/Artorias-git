@@ -3,7 +3,7 @@
 ---
 ### :zzz: Обо мне 
 
-<iframe src="https://giphy.com/embed/fojJlPjoRgRpe" width="314" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dab-fojJlPjoRgRpe">via GIPHY</a></p>
+<img src="https://giphy.com/embed/fojJlPjoRgRpe" width="314" height="480">
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="50" height="50" />
 
