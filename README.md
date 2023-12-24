@@ -53,7 +53,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kt" alt="kt" width="40" height="40"/>
 </div>
+
 ---
+
 ### 🛠 Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="cv" alt="cv" width="40" height="40"/>
