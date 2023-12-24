@@ -3,16 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hellow+wor...+Oh,+what???)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/26FeUjF88goLxusOQ/giphy.gif" width="200px"/>
-some text floating around the image
-<br clear="left"/>
-A "newline". This text doesn't float anymore, is left-aligned.
+
 
 ---
 ### :zzz: Обо мне 
 [comment]: <> (<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="100">)
 [comment]: <> (<img src="https://media.giphy.com/media/O7VUh4Y1Whvr2/giphy.gif" width="100%">)
+[comment]: <> (<img src="https://media.giphy.com/media/26FeUjF88goLxusOQ/giphy.gif" width="100%">)
 
-<img src="https://media.giphy.com/media/26FeUjF88goLxusOQ/giphy.gif" width="100%">
 <p> Я начинающий разработчик <img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="20">. Первые шаги в IT начал ещё в 9 классе, с изучения таких языков програмирования как c++ и python. Как показывала и продолжает показывать практика - матиматика всегда была моей сильной строной, но куда не глянь этого мало и потому я принял решение учиться на приклодной информатике в дизайне ФБКиИ ИГУ. Теперь мои аналитические способности помогают мне в дизайне, а творчиский взгляд в нахождении не классических решений. </p>
 
 - :zap: Являюсь старшим студентом ФБКиИ ИГУ приклодная информатика и дизайн
