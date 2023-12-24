@@ -22,7 +22,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="(https://t.me/artorias_tg">
+    <a href="https://t.me/artorias_tg">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" />
     </a>
     <a href="https://vk.com/artorias_vk" target="_blank">
