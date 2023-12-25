@@ -86,7 +86,10 @@
   </tr>
 </table>
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
+
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270">
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
 
