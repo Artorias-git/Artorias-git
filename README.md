@@ -49,7 +49,7 @@
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>  3 года обучения и практики в Arduino IDE и решения олимпиадных задач </td></tr>
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>  Год обучения бекэнду и базовым серверным приложениям для работы с базами данных </td></tr>
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/> Кря Кря       </td></tr>
-    <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kt" alt="kt" width="40" height="40"/></td> Пол года практики и знакомство с Android studio </tr>
+    <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kt" alt="kt" width="40" height="40"/> Пол года практики и знакомство с Android studio </td></tr>
   </table>
 </div>
 
