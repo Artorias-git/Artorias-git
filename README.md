@@ -46,7 +46,7 @@
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/> Прохождение курса HTML Academy и 2 года практики в учебных целях  </td></tr>
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/> Не, ну это база  </td> </tr>
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/> пол года курса в ИГУ</td></tr>
-    <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-plain.svg" title="C" alt="C" width="40" height="40"/>  3 года обучения и практики в Arduino IDE и решения олимпиадных задач </td></tr>
+    <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-plain.svg" title="C" alt="C" width="40" height="40"/>  3 года обучения и практики в Arduino IDE и решения олимпиадных задач </td></tr>
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>  Год обучения бекэнду и базовым серверным приложениям для работы с базами данных </td></tr>
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/> Кря Кря       </td></tr>
     <tr><td><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kt" alt="kt" width="40" height="40"/> Пол года практики и знакомство с Android studio </td></tr>
